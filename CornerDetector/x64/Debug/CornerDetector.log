@@ -1,0 +1,6 @@
+﻿  CornerDetector.cpp
+CornerDetector.cpp(202): warning C4244: '=' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+CornerDetector.cpp(203): warning C4244: '=' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+CornerDetector.cpp(204): warning C4244: '=' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+  CornerDetector.vcxproj -> C:\Users\Bionic Lee\Documents\Visual Studio 2010\Projects\CornerDetector\x64\Debug\CornerDetector.exe
+  CornerDetector.vcxproj -> C:\Users\Bionic Lee\Documents\Visual Studio 2010\Projects\CornerDetector\x64\Debug\CornerDetector.exe
